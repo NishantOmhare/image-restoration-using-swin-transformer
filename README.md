@@ -29,3 +29,19 @@ It enhances low-resolution images into high-resolution outputs with improved tex
 ## 🏗️ Architecture
 - Swin Transformer blocks (Window Attention)
 - Residual Learning:
+- - PixelShuffle Upsampling
+- Deep Feature Extraction
+
+---
+
+## 📂 Dataset
+- **DIV2K High-Resolution Dataset**
+- Automatically downloaded via `kagglehub`
+
+---
+
+## ⚙️ Installation
+
+```bash
+pip install timm einops kagglehub scikit-image
+git clone https://github.com/JingyunLiang/SwinIR.git
