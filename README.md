@@ -1,6 +1,4 @@
-from textwrap import dedent
 
-readme_content = dedent("""
 # 📷 Super-Resolution using SwinIR
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
